@@ -157,6 +157,7 @@
   },
   "BottomSheet": {
     "Collapse": "Close",
-    "OpenStatus": "Open Covid Shield status"
+    "OnStatus": "Covid Shield is on, Tap for more information",
+    "OfStatus": "Covid Shield is off, Tap for more information"
   }
 }
